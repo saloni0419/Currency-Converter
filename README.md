@@ -1,3 +1,6 @@
+<img width="960" alt="image" src="https://github.com/saloni0419/Currency-Converter/assets/100074110/ddc0d3f0-3c99-4a1a-a5b3-96de05f0a59d">
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
